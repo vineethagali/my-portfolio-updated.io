@@ -4686,3 +4686,6 @@ input, select, textarea {
 			visibility: visible;
 		}
       } 
+.sub-menu-1{
+	display: none;
+}
